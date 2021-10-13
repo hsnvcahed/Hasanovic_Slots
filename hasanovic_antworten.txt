@@ -1,0 +1,2 @@
+Aufgabe 2: Es macht keinen Unterschied in welcher Reihenfolge die Slots bei der Nutzung angegeben werden.
+
